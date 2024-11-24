@@ -13,4 +13,4 @@ This project encompasses:
   - Health and wellness programs for individuals with high BMI.  
   - Childcare facilities to support employees with familial responsibilities.  
 
-The project’s focus is on leveraging **Feature Engineering**, data analysis, and machine learning to enhance workforce efficiency and decision-making. It demonstrates both the technical and practical applications of the project, making it highly professional and relevant to industry use cases.
+The project’s focus is on leveraging **Feature Engineering**, data analysis, and machine learning to enhance workforce efficiency and decision-making. 
